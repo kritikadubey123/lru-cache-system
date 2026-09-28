@@ -1,0 +1,2 @@
+# Thread-Safe LRU Cache with TTL
+A high-performance O(1) time complexity Least Recently Used (LRU) cache implementation in Python, combining a hash map with a doubly linked list and supporting thread safety and TTL expiration.
